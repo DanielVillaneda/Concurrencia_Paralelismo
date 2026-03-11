@@ -1,4 +1,4 @@
-Jean Carlos Godoy - Elkin Daniel Villaneda
+# Jean Carlos Godoy - Elkin Daniel Villaneda
 # ¿Qué diferencia existe entre paralelismo y concurrencia?
 
 La concurrencia es la capacidad de un sistema para manejar varias tareas al mismo tiempo, pero no necesariamente ejecutándolas exactamente al mismo instante. En muchos casos, el procesador alterna rápidamente entre tareas, dando la impresión de que se ejecutan simultáneamente.
