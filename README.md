@@ -8,7 +8,17 @@ El paralelismo, en cambio, ocurre cuando varias tareas se ejecutan realmente al 
 
 Cuando varios hilos acceden al mismo recurso (por ejemplo una variable, un archivo o una base de datos) pueden interferir entre sí, especialmente si al menos uno de ellos modifica ese recurso.
 
-Esto puede provocar resultados incorrectos, datos inconsistentes, pérdida de información, comportamientos impredecibles en el programa. Este problema aparece porque los hilos ejecutan instrucciones de forma no controlada ni ordenada.
+Esto puede provocar: 
+
+- Resultados incorrectos
+  
+- Datos inconsistentes
+  
+- Pérdida de información
+  
+- Comportamientos impredecibles en el programa.
+
+Este problema aparece porque los hilos ejecutan instrucciones de forma no controlada ni ordenada.
 
 # ¿Qué es una condición de carrera (Race Condition)?
 
